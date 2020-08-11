@@ -34,6 +34,7 @@ import TicketAlt from './TicketAlt';
 import Times from './Times';
 import TimesCircle from './TimesCircle';
 import TrashAlt from './TrashAlt';
+import Undo from './Undo';
 import WindowClose from './WindowClose';
 import WindowMaximize from './WindowMaximize';
 
